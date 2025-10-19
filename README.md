@@ -25,7 +25,7 @@ npx tsx server/index.ts
 O site é automaticamente deployado no GitHub Pages quando há push na branch `main`.
 
 ### URL do Site
-- **GitHub Pages:** https://automadevs.github.io/TeamPerfMonitor/
+- **GitHub Pages:** https://automadevs.github.io/ai-site-pass/
 
 ## 🛠️ Scripts Disponíveis
 
