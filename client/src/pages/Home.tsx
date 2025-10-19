@@ -5,7 +5,6 @@ import ForCreators from "@/components/ForCreators";
 import ForBusinesses from "@/components/ForBusinesses";
 import Cases from "@/components/Cases";
 import Benefits from "@/components/Benefits";
-import ContactForm from "@/components/ContactForm";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -18,7 +17,6 @@ export default function Home() {
       <ForBusinesses />
       <Cases />
       <Benefits />
-      <ContactForm />
       <Footer />
     </div>
   );
