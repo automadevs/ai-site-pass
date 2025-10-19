@@ -51,6 +51,7 @@ jobs:
       with:
         path: './dist/public'
         name: github-pages-${{ github.run_number }}
+        retention-days: 1
         
     - name: Deploy to GitHub Pages
       id: deployment
